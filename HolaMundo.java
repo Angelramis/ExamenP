@@ -7,8 +7,8 @@ public class HolaMundo {
 		//Comentari una linea
 		
 		/*Comentari diverses linies
-		 * 
-		 * Hola
+		 * Un altre comentari
+		 * Hola!!!!!
 		 */
 	}
 
